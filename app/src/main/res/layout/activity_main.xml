@@ -12,7 +12,13 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:text="Hola mundo"
-    android:theme="@style/RaisedButtonDark"
-    />
+    android:theme="@style/RaisedButtonDark"></Button>
+
+  <ImageButton
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:src="@drawable/guardar"
+      android:theme="@style/RaisedButtonDark"
+      />
 
 </LinearLayout>
