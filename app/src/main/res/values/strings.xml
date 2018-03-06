@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MenusBorderButton</string>
+    <string name="itm_str_options">itm_str_options</string>
+    <string name="itm_str_close">itm_str_close</string>
 </resources>

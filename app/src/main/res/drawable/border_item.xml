@@ -7,7 +7,7 @@
         <!-- tamaño y color del shape -->
         <stroke
             android:color="@android:color/black"
-            android:width="5dp"></stroke>
+            android:width="1dp"></stroke>
         <!-- tamaño de ñas esquinas redondeadas -->
         <corners android:radius="10dp"></corners>
     </shape>
